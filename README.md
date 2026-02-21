@@ -33,7 +33,8 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
 ### 🤖 Agentic AI Engineer Projects 🤖
-     
+
+- **[Agentic AI Red_Team_Scanner](https://github.com/TrevinoParker7/Red_Team_Scanner/tree/main)**
 - **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
 - **[Agentic AI Vulnerability_Management](https://github.com/TrevinoParker7/Agentic_AI_Vulnerability_Management/tree/main)**
 - **[Agentic AI & LLM & AI/ML GRC Analyst Audit ](https://github.com/TrevinoParker7/AI-ML_Audit-Multiple_Agentic_AI_Audit/tree/main)**
