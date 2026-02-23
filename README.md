@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings!+👋;+I'm+Tefer+Munoz!;" />
 </h1>
 
 <h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer & Vulnerability Management </h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-     <a href="https://www.youtube.com/@AgenticAITradeSkool1"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
+    <a href="https://www.linkedin.com/in/tmunoz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+     <a href="https://www.youtube.com/@tefvid"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
     <a href="https://www.skool.com/agentic-ai-3504"><img width="100" height="30" alt="skool-logo-png_seeklogo-425793" src="https://github.com/user-attachments/assets/7a7ebe92-4d4a-4aa9-9872-265111d4b364" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
@@ -188,13 +188,16 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 
 
 <h2>📜 Certifications:</h2>
-- CISSP: Expected Dec. 2025 <br>- CompTIA Security+: Expected Oct. 2025 <br>- CompTIA Network+: Expected Nov. 2025
+- Certified Google Cyber Security Professional <br> CISSP: Expected Nov. 2026 <br>- CompTIA Security+: Expected Jun. 2026 <br>- CompTIA Network+: Expected Nov. 2026
 
 ## 🤳 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevinoparker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmunoz)
 
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&quoteCategory=motivational)
+![Quote] "author" => "Albert Einstein",
+  "source" => "https://www.goodreads.com/quotes/11458",
+  "tags" => "talent, curious, curiosity, passion",
+  "text" => "I have no special talent. I am only passionately curious.
 
 
   
