@@ -194,10 +194,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmunoz)
 
 
-<div align="center">
-  <img src="your-image-name.png" alt="Einstein Quote" width="800"/>
-</div>
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 
 
