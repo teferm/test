@@ -7,7 +7,7 @@ NStei<h1 align="center">
 <div align="center">
     <a href="https://www.linkedin.com/in/tmunoz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
      <a href="https://www.youtube.com/@tefvid"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
-    <a href="https://www.skool.com/agentic-ai-3504"><img width="100" height="30" alt="skool-logo-png_seeklogo-425793" src="https://github.com/user-attachments/assets/7a7ebe92-4d4a-4aa9-9872-265111d4b364" />
+    <a href="" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
 
@@ -24,13 +24,20 @@ NStei<h1 align="center">
 
 ---
 
-As a Agentic AI Engineer who specialize in securing **Multi-Agent, Agentic AI systems and LLM** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
+# 👋 Hello, I'm [Your Name]
 
-I drive **security automation**, Vulnerability Management, GRC Engineer Audits and Incident Response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
+### 🛡️ Aspiring SOC Analyst | CompTIA Security+ | Google Cybersecurity Certified
 
-As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defender, Python, and Bash** to automate governance, risk assessments, and remediation—reducing vulnerabilities and strengthening enterprise defenses.  
+I am a self-motivated tech enthusiast transitioning into the cybersecurity landscape. With a solid foundation in threat detection, incident response, and network security, I am currently seeking my first hands-on opportunity as a **SOC Analyst**. 
 
-<h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
+I am driven by a passion for defensive security and a long-term goal of specializing in **Cloud Computing and Security**. I thrive in fast-paced environments where I can contribute to protecting digital assets while rapidly scaling my technical expertise.
+
+---
+
+### 🚀 Technical Milestones
+* **CompTIA Security+** (SY0-701)
+* **Google Cybersecurity Professional Certificate**
+* **Focus Areas:** Threat Hunting, SIEM Tooling, Network Monitoring, and Cloud Infrastructure (AWS/Azure).
 
 ### 🤖 Agentic AI Engineer Projects 🤖
 
