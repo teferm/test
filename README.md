@@ -195,7 +195,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+  <img src="your-image-name.png" alt="Einstein Quote" width="800"/>
 </div>
 
   
