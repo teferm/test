@@ -1,6 +1,6 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=#CCBB3E&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings!+👋;+I'm+Tefer+Munoz!;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=CCBB3E&center=true&vCenter=true&width=500&lines=I+have+no+special+talent.;I+am+only+passionately+curious.;-+Albert+Einstein" alt="Einstein Quote" />
+</p>
 
 <h3 align="center">👋 Aspiring SOC Analyst </h3>
 
