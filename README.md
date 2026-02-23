@@ -193,8 +193,9 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 ## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmunoz)
 
-
-![Quote](https://quotes-github-readme.einstein.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=I+have+no+special+talent.;I+am+only+passionately+curious.;-+Albert+Einstein" alt="Einstein Quote" />
+</div>
   
 
 
