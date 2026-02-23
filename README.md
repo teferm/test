@@ -188,7 +188,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 
 
 <h2>📜 Certifications:</h2>
-- Certified Google Cyber Security Professional <br> CISSP: Expected Nov. 2026 <br>- CompTIA Security+: Expected Jun. 2026 <br>- CompTIA Network+: Expected Nov. 2026
+- Certified Google Cyber Security Professional <br> - CISSP: Expected Nov. 2026 <br>- CompTIA Security+: Expected Jun. 2026 <br>- CompTIA Network+: Expected Nov. 2026
 
 ## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmunoz)
