@@ -24,7 +24,7 @@ NStei<h1 align="center">
 
 ---
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Tefer Munoz]
 
 ### 🛡️ Aspiring SOC Analyst | CompTIA Security+ | Google Cybersecurity Certified
 
