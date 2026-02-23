@@ -1,7 +1,6 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=CCBB3E&center=true&vCenter=true&width=500&lines=I+have+no+special+talent.;I+am+only+passionately+curious.;-+Albert+Einstein" alt="Einstein Quote" />
-</p>
+<div align="center">
+  <h3>🛡️ Aspiring SOC Analyst | CompTIA Security+ | Google Cybersecurity Certified</h3>
+</div>
 
 <h3 align="center">👋 Aspiring SOC Analyst </h3>
 
