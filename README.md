@@ -6,33 +6,24 @@
   <h3>🛡️ Aspiring SOC Analyst | CompTIA Security+ | Certified Google Cyber Security Professional</h3>
 </div>
 
-<h3 align="center">👋 Aspiring SOC Analyst </h3>
+
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/tmunoz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-     <a href="https://www.youtube.com/@tefvid"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
-    <a href="" />
+    <a href="https://www.linkedin.com/in/tmunoz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Teferm&label=Visitors&color=brightgreen&style=for-the-badge)
 
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-</div>
+
   
 
 ---
 
-# 👋 Hello, I'm Tefer Munoz
 
-### 🛡️ Aspiring SOC Analyst | CompTIA Security+ | Google Cybersecurity Certified
 
-I am a self-motivated tech enthusiast transitioning into the cybersecurity landscape. With a solid foundation in threat detection, incident response, and network security, I am currently seeking my first hands-on opportunity as a **SOC Analyst**. 
-
-I am driven by a passion for defensive security and a long-term goal of specializing in **Cloud Computing and Security**. I thrive in fast-paced environments where I can contribute to protecting digital assets while rapidly scaling my technical expertise.
+I am a self-motivated tech enthusiast transitioning into the cybersecurity landscape with a solid foundation in threat detection, incident response, and network security. I am currently seeking my first hands-on opportunity as a **SOC Analyst**. 
+I am driven by a passion for defensive security and a long-term goal of specializing in **Cloud Computing and Security**. I thrive in fast-paced environments where I can contribute, while rapidly scaling my technical expertise.
 
 ---
 
@@ -41,25 +32,8 @@ I am driven by a passion for defensive security and a long-term goal of speciali
 * **Google Cybersecurity Professional Certificate**
 * **Focus Areas:** Threat Hunting, SIEM Tooling, Network Monitoring, and Cloud Infrastructure (AWS/Azure).
 
-### 🤖 Agentic AI Engineer Projects 🤖
 
-- **[Agentic AI Red_Team_Scanner](https://github.com/TrevinoParker7/Red_Team_Scanner/tree/main)**
-- **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
-- **[Agentic AI Vulnerability_Management](https://github.com/TrevinoParker7/Agentic_AI_Vulnerability_Management/tree/main)**
-- **[Agentic AI & LLM & AI/ML GRC Analyst Audit ](https://github.com/TrevinoParker7/AI-ML_Audit-Multiple_Agentic_AI_Audit/tree/main)**
-- **[Agentic_AI_LLM_Top_10_OWASP_Checker_With_AWS](https://github.com/TrevinoParker7/Agentic_AI_LLM_Top_10_OWASP_Checker_With_AWS)**
-- **[Agentic AI Voice Certifications Interviewer App Source Code Walk-Thru](https://codejourney61.gumroad.com/l/oneri)**
 
-### 🚨  GRC Engineer Projects 🚨
-
-- **[AWS_Automated_Access_Review](https://github.com/TrevinoParker7/AWS_Automated_Access_Review_1/tree/main/aws_automated_access_review_1)**
-- **[AWS_Security_Hub_Compliance_ Analyzer](https://github.com/TrevinoParker7/Security_Hub-_Compliance_Analyzer1)**
-- **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/TrevinoParker7/AWS_Security_Hub_To_Excel_Pipeline/tree/main)**
-- **[AWS_Password_Policy_Verification](https://github.com/TrevinoParker7/Password_Policy_Verification/blob/main/README.md)**
-- **[AWS_Inactive_Key_Rotation_Check](https://github.com/TrevinoParker7/Inactive_Key_Rotation_Check/tree/main)**
-- **[AWS_Cloudtrail_Validator](https://github.com/TrevinoParker7/Cloudtrail_Validator/blob/main/README.md)**
-- **[AWS_Cloud_Encryption_Evidence](https://github.com/TrevinoParker7/AWS_Cloud_Encryption_Evidence)**
-- **[AWS_Least_Privilege_Compliance_Checker](https://github.com/TrevinoParker7/AWS_Least_Privilege_Compliance_Checker)**
 
 
 ### 🟣 PURPLE TEAM 🟣
@@ -72,12 +46,7 @@ I am driven by a passion for defensive security and a long-term goal of speciali
 
 ### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
-- **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
-- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**
-- **[10+ Ensure-Audit-Remediation-Win-Server for Password, Encryption, Admin (PowerShell)](https://github.com/TrevinoParker7/Audit-Remediation-Win-Server/tree/main)**
-- **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/TrevinoParker7/Remediation-Automation-Bash-And-Powershell/tree/main/automation)** 
-- **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
- 
+
 #### 🚨 Threat Hunting & Security Operations
 - **[Incident Response: Phishing via Fake Software Update ](https://github.com/TrevinoParker7/PhishingSoftwareUpdate)**
 - **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/TrevinoParker7/Threat-Hunting-Scenario-Operation-Jackal-Spear/tree/main)**
