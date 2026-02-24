@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <h3>🛡️ Aspiring SOC Analyst | CompTIA Security+ | Google Cybersecurity Certified</h3>
+  <h3>🛡️ Aspiring SOC Analyst | CompTIA Security+ | Certified Google Cyber Security Professional</h3>
 </div>
 
 <h3 align="center">👋 Aspiring SOC Analyst </h3>
